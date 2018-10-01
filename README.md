@@ -1,7 +1,7 @@
 # Clicky Game
 
 #### About Clicky Game 
-* Clicky Game is a memory game build with React.
+* Clicky Game is a memory game build with React
 
 #### Why Clicky Game
 *  Improves concentration
@@ -11,7 +11,7 @@
 *  Improves the ability to find similarities and differences in objects
   
 #### How to use Clicky Game
-*  Open the link provided in GitHub ```https://avrora7.github.io/clicky_game/``` 
+*  Open the link provided in GitHub ```https://avrora7.github.io/clicky_game/index.html``` 
 *  The app renders images to the screen
 *  Click any image to start the game
 *  The user's score increments when clicking an image for the first time
@@ -28,4 +28,4 @@
 * React
 
 #### Project owner
-* The Clicky Game app is created and maintained by Elizabeth Engler. 
+* The Clicky Game app is created and maintained by Elizabeth Engler
